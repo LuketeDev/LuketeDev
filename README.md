@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- ❓ &nbsp; Tenho 15 anos.
+- ❓ &nbsp; Tenho 16 anos.
 - 🤔 &nbsp; Iniciante em programação em Python.
 - 🎓 &nbsp; Fazendo curso técnico em automação no Colégio Professor Divino Bernardo Gomes - SESI em Alto Horizonte.
 
