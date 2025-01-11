@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://wa.me/5562982128392"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-(62)%20982128392-blue?style=flat-square&logo=whatsapp"></a>
-<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Almeida%20De%20Oliveira-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/lucas.bjj._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lucas.bjj._-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:lulukas.2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lulukas.2023@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
