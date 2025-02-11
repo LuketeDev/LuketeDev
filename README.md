@@ -3,17 +3,21 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - ❓ &nbsp; Tenho 16 anos.
-- 🤔 &nbsp; Iniciante em programação em Python.
+- 🤔 &nbsp; Iniciante em programação em Python, Web e C#.
 - 🎓 &nbsp; Fazendo curso técnico em automação no Colégio Professor Divino Bernardo Gomes - SESI em Alto Horizonte.
+- 💼 &nbsp; Trabalhando atualmente na **TTEOsoft**.
 
 <h3> 🛠 &nbsp;Stack Tecnológico</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet)
+  ![Html](https://img.shields.io/badge/-Python-333333?style=flat&logo=html5)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat)
+  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=flat)
 
 
 <br/>
