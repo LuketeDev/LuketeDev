@@ -13,7 +13,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet)
-  ![Html](https://img.shields.io/badge/-Python-333333?style=flat&logo=html5)
+  ![Html](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat)
