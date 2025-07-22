@@ -22,7 +22,28 @@ Me chamo Lucas Almeida de Oliveira, tenho 16 anos e sou natural de Três Marias.
 </p>
 
 ---
+## 📚 Formação
+🎓 **Técnico em Automação Industrial**  
+Colégio Municipal Professor Divino Bernardo Gomes (SESI/SENAI)
+*ago/2023 – dez/2025*
 
+🎓 **Vivo - Python AI Backend Developer**  
+DIO Cursos Online
+*ago/2024 – nov/2024*
+
+---
+
+## 🛠 Experiência
+👨‍💻 **Aprendiz de Dev Web – TTEOsoft**  
+*jan/2025 – abr/2025*
+Atuei no aprendizado e contribuição prática em projetos da empresa utilizando **HTML**, **AJAX** e **C#**.
+
+---
+
+## 🎯 O que estou buscando
+📌 Freelance e oportunidades desafiadoras para evoluir como **Dev Fullstack**.
+
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
