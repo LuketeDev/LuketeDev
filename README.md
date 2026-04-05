@@ -1,125 +1,105 @@
-# 👩🏻‍💻 Lucas Almeida
+<h1 align="center">Fala aí 👋, eu sou o Lucas</h1>
 
-**`Desenvolvedor`**
-
-Me chamo Lucas Almeida de Oliveira, tenho 16 anos e sou natural de Três Marias. Atualmente, estou cursando o ensino médio no Colégio Municipal Professor Divinio Bernardo Gomes, com o curso técnico em Automação Industrial. Sou apaixonado por tecnologia, matemática e olímpiadas do conhecimento, principalmente a Olímpiada Brasileira de Tecnologia.
-
-<p align="left">
-    <a href="https://github.com/LuketeDev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LuketeDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LuketeDev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LuketeDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  💻 Desenvolvedor Backend Java em evolução<br>
+  🚀 Focado em APIs REST, Spring Boot e arquitetura de sistemas<br>
 </p>
 
 ---
-## 📚 Formação
-🎓 **Técnico em Automação Industrial**  
-Colégio Municipal Professor Divino Bernardo Gomes (SESI/SENAI)
-*ago/2023 – dez/2025*
 
-🎓 **Vivo - Python AI Backend Developer**  
-DIO Cursos Online
-*ago/2024 – nov/2024*
+## 🚀 Sobre mim
 
----
+Sou desenvolvedor com foco em backend utilizando **Java + Spring Boot**, criando APIs REST e trabalhando com bancos de dados como **PostgreSQL e MongoDB**.
 
-## 🛠 Experiência
-👨‍💻 **Aprendiz de Dev Web – TTEOsoft**  
-*jan/2025 – abr/2025*
-Atuei no aprendizado e contribuição prática em projetos da empresa utilizando **HTML**, **AJAX** e **C#**.
+Tenho experiência prática com projetos reais de estudo, aplicando conceitos como:
+
+- Programação Orientada a Objetos (POO)
+- SOLID
+- Arquitetura MVC
+- Multitenancy
+
+Também possuo conhecimento em desenvolvimento full stack com **Vue.js**, integrando frontend e backend de forma eficiente.
 
 ---
 
-## 🎯 O que estou buscando
-📌 Freelance e oportunidades desafiadoras para evoluir como **Dev Fullstack**.
+## 🧠 Tecnologias e Ferramentas
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
-<br/>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179159730" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179159730&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @LuketeDev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179159730&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=179159730&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=179159730&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @LuketeDev" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=179159730&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuketeDev&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuketeDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+## 🔥 Projetos em destaque
+
+### 🔹 APIs REST com Spring Boot
+- Desenvolvimento de APIs com CRUD completo
+- Integração com PostgreSQL e MongoDB
+- Aplicação de boas práticas (SOLID, MVC)
+
+### 🔹 Sistema Full Stack
+- Backend em Java + Spring Boot
+- Frontend com Vue.js
+- Comunicação via API REST
+
+---
+
+## 📈 Em evolução
+
+Atualmente estudando:
+
+- Arquitetura de Microsserviços
+- Performance e otimização de APIs
+- Boas práticas de backend em escala
+
+---
+
+## 🌎 Contato
+
+- 💼 LinkedIn: [coloque aqui]
+- 💻 GitHub: https://github.com/LuketeDev
+
+---
+
+## 🚀 Objetivo
+
+Buscando oportunidade como:
+
+- Desenvolvedor Backend Java Júnior
+- Estágio em Backend
+- Desenvolvedor Full Stack (Java + Vue)
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela lá!
