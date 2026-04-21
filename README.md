@@ -18,7 +18,7 @@ Tenho experiência prática com projetos reais de estudo, aplicando conceitos co
 - Arquitetura MVC
 - Multitenancy
 
-Também possuo conhecimento em desenvolvimento full stack com **Vue.js**, integrando frontend e backend de forma eficiente.
+Também possuo conhecimento em desenvolvimento full stack com **Angular**, integrando frontend e backend de forma eficiente.
 
 ---
 
@@ -29,7 +29,6 @@ Também possuo conhecimento em desenvolvimento full stack com **Vue.js**, integr
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Banco de Dados
@@ -70,7 +69,7 @@ Também possuo conhecimento em desenvolvimento full stack com **Vue.js**, integr
 
 ### 🔹 Sistema Full Stack
 - Backend em Java + Spring Boot
-- Frontend com Vue.js
+- Frontend com Angular
 - Comunicação via API REST
 
 ---
@@ -87,7 +86,7 @@ Atualmente estudando:
 
 ## 🌎 Contato
 
-- 💼 LinkedIn: [coloque aqui]
+- 💼 LinkedIn: https://linkedin.com/in/lucas-a-d-oliveira
 - 💻 GitHub: https://github.com/LuketeDev
 
 ---
@@ -98,7 +97,7 @@ Buscando oportunidade como:
 
 - Desenvolvedor Backend Java Júnior
 - Estágio em Backend
-- Desenvolvedor Full Stack (Java + Vue)
+- Desenvolvedor Full Stack (Java + Angular)
 
 ---
 
