@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí 👋, eu sou o Lucas</h1>
+<h1 align="center">👋 Eu sou o Lucas! 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor Backend Java em evolução<br>
@@ -18,7 +18,7 @@ Tenho experiência prática com projetos reais de estudo, aplicando conceitos co
 - Arquitetura MVC
 - Multitenancy
 
-Também possuo conhecimento em desenvolvimento full stack com **Angular**, integrando frontend e backend de forma eficiente.
+Também possuo conhecimento em desenvolvimento full stack com **React**, integrando frontend e backend de forma eficiente.
 
 ---
 
@@ -30,6 +30,7 @@ Também possuo conhecimento em desenvolvimento full stack com **Angular**, integ
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-60DFFF?style=for-the-badge&logo=react&logoColor=black)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,25 +43,7 @@ Também possuo conhecimento em desenvolvimento full stack com **Angular**, integ
 
 ---
 
-## 📊 Estatísticas
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179159730" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179159730&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @LuketeDev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179159730&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=179159730&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=179159730&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @LuketeDev" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=179159730&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
----
-
-## 🔥 Projetos em destaque
+## 🔥 Serviços em destaque
 
 ### 🔹 APIs REST com Spring Boot
 - Desenvolvimento de APIs com CRUD completo
@@ -94,10 +77,10 @@ Atualmente estudando:
 ## 🚀 Objetivo
 
 Buscando oportunidade como:
-
 - Desenvolvedor Backend Java Júnior
 - Estágio em Backend
 - Desenvolvedor Full Stack (Java + Angular)
+- Aprendiz de Suporte técnico
 
 ---
 
