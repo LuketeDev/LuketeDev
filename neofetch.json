@@ -6,7 +6,7 @@
         { "key": "OS", "value": "Windows 11, Linux Mint 22.2" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Host", "value": "None :(" },
-        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
+        { "key": "IDE", "value": "VSCode, Vim" }
       ]
     },
     {
